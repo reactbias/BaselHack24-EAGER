@@ -96,3 +96,5 @@ This is our battle plan. Let’s keep it clean, efficient, and deliver impressiv
 # Ideas
 
 Add a (crypto) payment option to automatically pay infrastructure (crowd paying)
+
+AI QArt Management System
