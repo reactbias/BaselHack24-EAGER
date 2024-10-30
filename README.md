@@ -91,3 +91,8 @@ An efficient, accessible media summarizer offering real-time, concise summaries 
 ---
 
 This is our battle plan. Let’s keep it clean, efficient, and deliver impressive results at BaselHack24.
+
+
+# Ideas
+
+Add a (crypto) payment option to automatically pay infrastructure (crowd paying)
