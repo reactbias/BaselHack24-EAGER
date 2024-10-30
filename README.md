@@ -1,7 +1,5 @@
 # BaselHack24-EAGER
 
-![BaselHack24](hack.webp)
-
 Welcome to the BaselHack24 **YouTube Video Summarizer** project! This document is your strategic guide for creating a scalable, multi-platform tool to generate instant video summaries. Our focus: clean execution, maximum value, and a razor-sharp, user-friendly interface.
 
 ---
@@ -15,13 +13,22 @@ Welcome to the BaselHack24 **YouTube Video Summarizer** project! This document i
 🎯 VIDEO SUMMARY SUITE
 
 **CORE:**
-Claude AI → Fast, cheap, accurate summaries
-Your API key → Unlimited power
+1. **Claude AI**  
+   - Fast, cheap, accurate summaries
+
+2. **Your API key**  
+   - Unlimited power
+
 
 **PLATFORMS:**
-**→ Chrome tab:** Click & read
-**→ Telegram:** Paste & digest
-**→ Web:** Track & manage
+1. **Chrome tab:**  
+   - Click & read
+
+2. **Telegram**  
+   - Paste & digest
+   
+3. **Web**  
+   - Track & manage
 
 **Simple. Scalable. Lethal.**
 
