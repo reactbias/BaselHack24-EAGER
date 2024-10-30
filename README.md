@@ -1,36 +1,68 @@
 # BaselHack24-EAGER
 
-Welcome to the BaselHack24 **YouTube Video Summarizer** project! This document is your strategic guide for creating a scalable, multi-platform tool to generate instant video summaries. Our focus: clean execution, maximum value, and a razor-sharp, user-friendly interface.
+## PITCH !
 
 ---
 
-## 🎯 Mission: VIDEO BRAIN
+**Concept:**  
+The idea is to develop a **media summarization tool** accessible via a **Telegram Bot** and **Browser Extension**. This tool builds on the [YouTube Summary with ChatGPT project](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) with significant enhancements for versatility and user control.
 
-**Objective:** Deliver a fast, efficient YouTube summarizer that provides users with clear, concise summaries across platforms.
+**Key Enhancements:**
+1. **Powered by Claude**  
+   - Utilizing Claude for fast, cost-effective video summarization.
+
+2. **Chrome Extension Deployment**  
+   - Accessible directly on YouTube for seamless user experience.
+
+3. **Telegram Bot Availability**  
+   - Quick access for users, leveraging existing bot development experience.
+
+4. **User-Controlled API Key Support**  
+   - Scalable setup, allowing users to provide their own API keys for personalization and cost management.
+
+**Bonus Vision:**  
+Make APIs modular so that various AI models (e.g., Claude, GPT) can be easily integrated and swapped based on user preference or project needs.
+
+This approach provides an ideal balance of **feasibility** and **technical showcase** potential.
+
+![BaselHack24](hack.webp)
+ 
+---
+
+## 🎯 Mission
+
+**Objective:** Deliver a fast, efficient Media summarizer that provides users with clear, concise summaries across platforms.
 
 ---
 
-🎯 VIDEO SUMMARY SUITE
+### **CORE**
 
-**CORE:**
-1. **Claude AI**  
-   - Fast, cheap, accurate summaries
+1. **Powered by Claude**  
+   - Utilizing Claude for fast, cost-effective video summarization.
 
-2. **Your API key**  
-   - Unlimited power
+2. **User-Controlled API Key Support**  
+   - Scalable setup, allowing users to provide their own API keys for personalization and cost management.
 
 
-**PLATFORMS:**
-1. **Chrome tab:**  
-   - Click & read
+---
 
-2. **Telegram**  
-   - Paste & digest
-   
-3. **Web**  
-   - Track & manage
+### **PLATFORMS**
+
+1. **Chrome Extension Deployment**  
+   - Accessible directly on YouTube for seamless user experience.
+
+3. **Telegram Bot Availability**  
+   - Quick access for users, leveraging existing bot development experience.
+
+3. **Web Application**  
+   - **Track & Manage**: Comprehensive dashboard for summary tracking and analytics
+
+---
 
 **Simple. Scalable. Lethal.**
+
+**Bonus Vision:**  
+Make APIs modular so that various AI models (e.g., Claude, GPT) can be easily integrated and swapped based on user preference or project needs.
 
 ---
 
@@ -81,7 +113,7 @@ Our solution consists of three integrated platforms to provide a seamless user e
 
 ---
 
-## ⚔️ Execution Strategy: hack.webp
+## ⚔️ Execution Strategy:
 
 ### Step-by-Step Tactical Plan
 
@@ -119,3 +151,6 @@ Our approach is streamlined and outcome-focused:
 ---
 
 This is our battle plan. Let’s keep it clean, effective, and ready to deliver exceptional results at BaselHack24.
+
+
+
