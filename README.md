@@ -1,108 +1,69 @@
 # BaselHack24-EAGER
 
-## PITCH !
+![BaselHack24](hack.webp)
 
----
+## 📢 Project Pitch
 
 **Concept:**  
-The idea is to develop a **media summarization tool** accessible via a **Telegram Bot** and **Browser Extension**. This tool builds on the [YouTube Summary with ChatGPT project](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) with significant enhancements for versatility and user control.
+Develop a **media summarization tool** accessible through a **Telegram Bot**, **Chrome Extension**, and **Web App**. Building on the [YouTube Summary with ChatGPT project](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT), our approach enhances user control, scalability, and cross-platform accessibility.
 
-**Key Enhancements:**
-1. **Powered by Claude**  
-   - Utilizing Claude for fast, cost-effective video summarization.
-
-2. **Chrome Extension Deployment**  
-   - Accessible directly on YouTube for seamless user experience.
-
-3. **Telegram Bot Availability**  
-   - Quick access for users, leveraging existing bot development experience.
-
-4. **User-Controlled API Key Support**  
-   - Scalable setup, allowing users to provide their own API keys for personalization and cost management.
+**Key Features:**
+1. **Claude-Powered Summaries**: Fast, accurate, and cost-effective.
+2. **Chrome Extension**: Direct access to summaries on YouTube for seamless use.
+3. **Telegram Bot**: Quick, link-based summaries optimized for mobile.
+4. **User API Key Support**: Personalized API management for scalability.
 
 **Bonus Vision:**  
-Make APIs modular so that various AI models (e.g., Claude, GPT) can be easily integrated and swapped based on user preference or project needs.
+A modular API structure to allow multiple AI models (e.g., Claude, GPT) to be integrated, giving users the flexibility to choose or swap models.
 
-This approach provides an ideal balance of **feasibility** and **technical showcase** potential.
-
-![BaselHack24](hack.webp)
- 
----
-
-## 🎯 Mission
-
-**Objective:** Deliver a fast, efficient Media summarizer that provides users with clear, concise summaries across platforms.
+**Objective:** Build a high-impact, cross-platform media summarizer balancing feasibility with innovation for a smooth user experience.
 
 ---
 
-### **CORE**
+## 🎯 Mission: Video Summary Suite
 
-1. **Powered by Claude**  
-   - Utilizing Claude for fast, cost-effective video summarization.
+An efficient, accessible media summarizer offering real-time, concise summaries across multiple platforms, focused on simplicity and user control.
 
+---
+
+## 🔧 Core System
+
+1. **Summarization Engine**  
+   - Provides fast, affordable summaries optimized for various media.
+   
 2. **User-Controlled API Key Support**  
-   - Scalable setup, allowing users to provide their own API keys for personalization and cost management.
-
+   - Allows users to manage their own scalability and costs.
 
 ---
 
-### **PLATFORMS**
+## 📱 Platforms: Triple Strike System
 
-1. **Chrome Extension Deployment**  
-   - Accessible directly on YouTube for seamless user experience.
+1. **Chrome Extension**  
+   - One-click summaries on YouTube for a seamless user experience.
 
-3. **Telegram Bot Availability**  
-   - Quick access for users, leveraging existing bot development experience.
+2. **Telegram Bot**  
+   - Paste a link to receive an instant summary, optimized for mobile.
 
 3. **Web Application**  
-   - **Track & Manage**: Comprehensive dashboard for summary tracking and analytics
-
----
+   - Dashboard for summary tracking, history management, and analytics.
 
 **Simple. Scalable. Lethal.**
 
-**Bonus Vision:**  
-Make APIs modular so that various AI models (e.g., Claude, GPT) can be easily integrated and swapped based on user preference or project needs.
-
 ---
 
-## 👥 Team Setup
+## 👥 Team Roles
 
 | Role                | Key Focus                                  |
 |---------------------|--------------------------------------------|
 | 1x Frontend Ninja   | Chrome Extension UI, Web Interface         |
-| 1x Backend Master   | Core API, Claude AI Integration            |
+| 1x Backend Master   | Core API Integration                       |
 | 1x Full-stack Samurai | Infrastructure & Testing               |
 | 1x Bot Specialist   | Telegram Integration                       |
 | 1x Creative Warrior | UX/UI Refinement & Polish                  |
 
---- 
-
-## ⚙️ Core Engine
-
-Our core summarization engine is powered by the **Claude API** for high-quality, real-time video summaries.
-
-- **Efficient Summarization**: Optimized for speed and cost-effectiveness.
-- **User-Scalable**: Supports individual user API keys to enable flexible scalability.
-
 ---
 
-## 🛠️ Platform Overview: Triple Strike System
-
-Our solution consists of three integrated platforms to provide a seamless user experience:
-
-1. **Chrome Extension**  
-   - Instant video summaries directly within the browser.
-
-2. **Telegram Bot**  
-   - Simple link-to-summary functionality for mobile access.
-
-3. **Web Application**  
-   - Centralized dashboard with summary management, analytics, and history tracking.
-
----
-
-## 🔗 Tech Stack
+## 🛠️ Tech Stack
 
 | Component         | Stack               |
 |-------------------|---------------------|
@@ -113,44 +74,46 @@ Our solution consists of three integrated platforms to provide a seamless user e
 
 ---
 
-## ⚔️ Execution Strategy:
+## ⚔️ Execution Strategy
 
-### Step-by-Step Tactical Plan
+### Tactical Plan
 
-1. **Backend Development**  
-   - Build a modular backend to support Claude and additional AI integrations.
-   - Implement smooth API key management for individual users.
+1. **Backend Foundation**  
+   - Modular architecture supporting multiple AIs, with user API key handling.
 
 2. **Chrome Extension UI**  
-   - Create a single-click summary interface focused on usability and speed.
+   - Clean, single-click summary interface directly in YouTube.
 
 3. **Telegram Bot**  
-   - Enable instant summaries via link-sharing for fast, mobile-first access.
+   - Simple link-to-summary feature optimized for mobile use.
 
 4. **Web Application with Analytics**  
-   - Provide a dashboard for managing summaries, tracking usage, and accessing history.
+   - Dashboard for managing summaries, tracking usage, and reviewing history.
 
 ---
 
-## 📅 Project Timeline
+## 📅 Timeline
 
-Our approach is streamlined and outcome-focused:
+**Day 1**:  
+- Complete backend foundation with API integration.
+- Begin initial setup of Chrome Extension UI.
 
-- **Day 1**: Backend core and extension foundation.
-- **Day 2**: Bot integration.
-- **Day 3**: Final testing and polish.
+**Day 2**:  
+- Complete Chrome Extension functionality and conduct user testing.
+- Integrate and test the Telegram Bot for smooth operation.
+
+**Day 3**:  
+- Final testing and adjustments across all components (Chrome, Telegram, Web App).
+- Polish UX/UI for a seamless, professional finish.
 
 ---
 
 ## 📂 Additional Resources
 
-- **[Claude API Documentation](https://example.com/claude-api)**: Explore Claude's capabilities for AI-based summarization.
-- **[Next.js Documentation](https://nextjs.org/docs)**: Get familiar with Next.js for a streamlined frontend experience.
-- **[Telegram Bot API](https://core.telegram.org/bots/api)**: Guide on creating and managing Telegram bots.
+- **[Claude API Documentation](https://example.com/claude-api)**: Dive into Claude’s summarization capabilities.
+- **[Next.js Documentation](https://nextjs.org/docs)**: Learn Next.js for a high-performance frontend.
+- **[Telegram Bot API](https://core.telegram.org/bots/api)**: Guide to creating and managing Telegram bots.
 
 ---
 
-This is our battle plan. Let’s keep it clean, effective, and ready to deliver exceptional results at BaselHack24.
-
-
-
+This is our battle plan. Let’s keep it clean, efficient, and deliver impressive results at BaselHack24.
