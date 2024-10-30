@@ -42,7 +42,7 @@ An efficient, accessible media summarizer offering real-time, concise summaries 
 | Component         | Stack               |
 |-------------------|---------------------|
 | **Backend**       | Node.js + Redis     |
-| **Frontend**      | Next.js + ShadCN/UI |
+| **Frontend**      | Next.js ShadCN/UI + Chrome Extension|
 | **Bot**           | Telegram API + Node |
 | **AI**            | Claude API          |
 
