@@ -43,7 +43,7 @@ An efficient, accessible media summarizer offering real-time, concise summaries 
 |-------------------|---------------------|
 | **Backend**       | Node / Redis     |
 | **Frontend**      | Next ShadCN/UI + Chrome Extension|
-| **Bot**           | Telegram API + Node / Redis|
+| **Bot**           | Telegram API.       |
 | **AI**            | Claude API          |
 
 ---
