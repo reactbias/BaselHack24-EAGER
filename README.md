@@ -18,15 +18,10 @@ A modular API structure to allow multiple AI models (e.g., Claude, GPT) to be in
 
 **Objective:** Build a high-impact, cross-platform media summarizer balancing feasibility with innovation for a smooth user experience.
 
----
-
 ## 🎯 Mission: Video Summary Suite
 
 An efficient, accessible media summarizer offering real-time, concise summaries across multiple platforms, focused on simplicity and user control.
 
----
-
-**Simple. Scalable. Lethal.**
 
 ---
 
