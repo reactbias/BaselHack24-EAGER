@@ -26,27 +26,6 @@ An efficient, accessible media summarizer offering real-time, concise summaries 
 
 ---
 
-## 🔧 Core System
-
-1. **Summarization Engine**  
-   - Provides fast, affordable summaries optimized for various media.
-   
-2. **User-Controlled API Key Support**  
-   - Allows users to manage their own scalability and costs.
-
----
-
-## 📱 Platforms: Triple Strike System
-
-1. **Chrome Extension**  
-   - One-click summaries on YouTube for a seamless user experience.
-
-2. **Telegram Bot**  
-   - Paste a link to receive an instant summary, optimized for mobile.
-
-3. **Web Application**  
-   - Dashboard for summary tracking, history management, and analytics.
-
 **Simple. Scalable. Lethal.**
 
 ---
